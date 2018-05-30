@@ -1,0 +1,16 @@
+/* Simple Pazaak
+By:Legate Manius
+Created:20180530
+
+Sequence:
+1. 4 random cards are selected of the 10 placed inside the player and the NPC's "Pazaak Bag"
+2. The script uses RNG to select who goes first.
+3. The first player is dealt a card
+4. 1st player chooses 1 of 5 options 1) End turn 2) Stand 3) Choose a card 4) Increase Bet 5)Fold
+5. 2nd player is dealt a card.
+6. 2nd player chooses 1 of 4 options 1) End turn 2) Stand 3) Choose a card 4) Increase Bet 5)Fold
+7. This process repeats until both players stand/bust.
+
+This is the initial code that starts the game of Pazaak, initializes the deck, ensures that the tables are clear, resets the pot, clears
+the scores and sets the PCSpeaker as "Playing". 
+*/
