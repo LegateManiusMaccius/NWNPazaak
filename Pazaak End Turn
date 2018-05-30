@@ -1,0 +1,3 @@
+/*
+This script is what is called after the player ends the turn by calling the bet or (End Turn). It will also calls for the Dealer.
+*/
