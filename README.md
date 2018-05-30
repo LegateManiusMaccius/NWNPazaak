@@ -11,3 +11,5 @@ cards. the cards add to the overall number. after each player is dealt a card th
 hand of 4 to the overall number. Those that have two possibilities +/- 3/6 are able to be scripted in as 2 options in a conversation and
 removed if either choice is taken. The betting the n takes place. Then the NPC gets a turn and can use the appropriate cards or pass.
 Repeat process until the had is over.
+
+
